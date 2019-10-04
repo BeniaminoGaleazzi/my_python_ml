@@ -1,2 +1,4 @@
-# my_python_ml
-Local Version of the code
+# CodingWaves Repository
+www.codingwaves.org
+
+This material is made by CodingWaves team.
